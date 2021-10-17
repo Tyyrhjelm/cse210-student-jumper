@@ -38,5 +38,6 @@ Jennifer Clark  Jennifer.c.schultz@gmail.com
 Kevin Espinoza Reyes  robert.kevin.espinoza@gmail.com
 Ronaldo Martins Schmidt ronaldomschmidt@gmail.com
 Benjamin Welsch bwelsch@byui.edu
+Elizabeth Tellez tellezelizabethmf@gmail.com
 
 * TODO: Add your names and emails here
